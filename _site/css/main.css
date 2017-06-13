@@ -35,13 +35,13 @@ header h2 {
 .btn-dark {
   border-radius: 0;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.4); }
+  background-color: #437db4; }
 
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.7); }
+  background-color: rgba(67, 125, 180, 0.8); }
 
 .btn-light {
   border-radius: 0;
